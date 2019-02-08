@@ -1,0 +1,10 @@
+D:\C# Arduino projects\Thermometer\Thermometer\bin\Debug\Thermometer.exe.config
+D:\C# Arduino projects\Thermometer\Thermometer\bin\Debug\Thermometer.exe
+D:\C# Arduino projects\Thermometer\Thermometer\bin\Debug\Thermometer.pdb
+D:\C# Arduino projects\Thermometer\Thermometer\obj\Debug\Thermometer.csprojResolveAssemblyReference.cache
+D:\C# Arduino projects\Thermometer\Thermometer\obj\Debug\Thermometer.Properties.Resources.resources
+D:\C# Arduino projects\Thermometer\Thermometer\obj\Debug\Thermometer.csproj.GenerateResource.Cache
+D:\C# Arduino projects\Thermometer\Thermometer\obj\Debug\Thermometer.csproj.CoreCompileInputs.cache
+D:\C# Arduino projects\Thermometer\Thermometer\obj\Debug\Thermometer.exe
+D:\C# Arduino projects\Thermometer\Thermometer\obj\Debug\Thermometer.pdb
+D:\C# Arduino projects\Thermometer\Thermometer\obj\Debug\Thermometer.Form1.resources
